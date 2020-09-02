@@ -1,0 +1,22 @@
+{
+  "name": "portfolio",
+  "version": "1.0.0",
+  "description": "Code for my public portfolio",
+  "scripts": {
+    "start": "node main.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/anne02550/portfolio.git"
+  },
+  "author": "",
+  "license": "UNLICENSED",
+  "bugs": {
+    "url": "https://github.com/anne02550/portfolio/issues"
+  },
+  "homepage": "https://github.com/anne02550/portfolio#readme",
+  "dependencies": {
+    "express": "^4.17.1"
+  }
+}
