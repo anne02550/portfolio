@@ -22,5 +22,5 @@ app.get('/resume', (req, res) => {
 });
 
 app.listen(port, () => {
-  console.log(`company directory listening at http://localhost:${port}`)
+  console.log(`portfolio listening at http://localhost:${port}`)
 });
